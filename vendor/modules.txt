@@ -1,0 +1,9 @@
+# github.com/google/subcommands v1.0.1
+github.com/google/subcommands
+# github.com/gorilla/websocket v1.4.0
+github.com/gorilla/websocket
+# github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
+github.com/songgao/water
+# golang.org/x/sys v0.0.0-20190322080309-f49334f85ddc
+golang.org/x/sys/windows
+golang.org/x/sys/windows/registry
